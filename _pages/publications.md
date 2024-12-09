@@ -9,14 +9,19 @@ For an updated list, kindly refer to my [Google Scholar's page](https://scholar.
 
 
 ## Preprints
-
-* [Learning an Invertible Mapping can Mitigate Simplicity Bias](https://arxiv.org/abs/2210.01360)
-	Sravanti Addepalli\*, **Anshul Nasery**\*, R Venkatesh Babu, Praneeth Netrapalli, Prateek Jain
-
-* [DAFT: Distilling Adversarially Finetuned Teachers for better OOD generalization](https://arxiv.org/abs/2208.09139)
-	**Anshul Nasery**\*, Sravanti Addepalli, Praneeth Netrapalli, Prateek Jain
+* [PLeaS -- Merging Models with Permutations and Least Squares](https://arxiv.org/abs/2407.02447)
+	 **Anshul Nasery**\*, Jonathan Hayase\*,  Pang Wei Koh, Sewoong Oh
+ 	
 
 ## Conferences
+
+* [PEEKABOO: Interactive Video Generation via Masked-Diffusion](https://arxiv.org/abs/2312.07509)
+	Yash Jain\*, **Anshul Nasery**\*,  Vibhav Vineet, Harkirat Behl at CVPR'24
+ 
+* [Learning an Invertible Mapping can Mitigate Simplicity Bias](https://arxiv.org/abs/2210.01360)
+	Sravanti Addepalli\*, **Anshul Nasery**\*, R Venkatesh Babu, Praneeth Netrapalli, Prateek Jain at ICLR'23
+* [End-to-End Neural Network Compression via l1/l2 Regularized Latency Surrogates]((https://ieeexplore.ieee.org/document/10678112)
+	**Anshul Nasery**, Hardik Shah, Arun Suggala, Prateek Jain at CVPR-W'24
 
 * [Training for the Future: A Simple Gradient Interpolation loss to Generalize Along Time](https://openreview.net/forum?id=U7SBcmRf65)
 **Anshul Nasery**\*, Soumyadeep Thakur\*, Vihari Piratla, Abir De, Sunita Sarawagi
