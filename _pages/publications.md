@@ -20,7 +20,7 @@ For an updated list, kindly refer to my [Google Scholar's page](https://scholar.
  
 * [Learning an Invertible Mapping can Mitigate Simplicity Bias](https://arxiv.org/abs/2210.01360)
 	Sravanti Addepalli\*, **Anshul Nasery**\*, R Venkatesh Babu, Praneeth Netrapalli, Prateek Jain at ICLR'23
-* [End-to-End Neural Network Compression via l1/l2 Regularized Latency Surrogates]((https://ieeexplore.ieee.org/document/10678112)
+* [End-to-End Neural Network Compression via l1/l2 Regularized Latency Surrogates](https://ieeexplore.ieee.org/document/10678112)
 	**Anshul Nasery**, Hardik Shah, Arun Suggala, Prateek Jain at CVPR-W'24
 
 * [Training for the Future: A Simple Gradient Interpolation loss to Generalize Along Time](https://openreview.net/forum?id=U7SBcmRf65)
