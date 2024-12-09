@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Anshul"
   avatar           : "anshul.jpg"
-  bio              : "Pre-doctoral Researcher, Google Research India"
-  location         : "Bangalore, India"
+  bio              : "PhD Student, University of Washington"
+  location         : "Seattle, US"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.in/citations?user=lmvY2SMAAAAJ&hl=en#"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "anshuln"
+  github           : "anshuln2"
   google_plus      :
   keybase          :
   instagram        : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://x.com/anshulnasery"
   vine             :
   weibo            :
   xing             :
