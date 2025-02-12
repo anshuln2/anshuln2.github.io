@@ -9,6 +9,8 @@ For an updated list, kindly refer to my [Google Scholar's page](https://scholar.
 
 
 ## Preprints
+* [Scalable Fingerprinting of Large Language Models](https://arxiv.org/abs/2502.07760)
+  	**Anshul Nasery**, Jonathan Hayase, Creston Brooks, Peiyao Sheng, Himanshu Tyagi, Pramod Viswanath, Sewoong Oh
 * [PLeaS -- Merging Models with Permutations and Least Squares](https://arxiv.org/abs/2407.02447)
 	 **Anshul Nasery**\*, Jonathan Hayase\*,  Pang Wei Koh, Sewoong Oh
  	
