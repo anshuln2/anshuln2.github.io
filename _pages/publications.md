@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-For an updated list, kindly refer to my [Google Scholar's page](https://scholar.google.co.in/citations?user=lmvY2SMAAAAJ&hl=en).
+For an updated list, kindly refer to my [Google Scholar](https://scholar.google.co.in/citations?user=lmvY2SMAAAAJ&hl=en).
 
 
 ## Preprints
