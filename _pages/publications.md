@@ -11,12 +11,12 @@ For an updated list, kindly refer to my [Google Scholar](https://scholar.google.
 ## Preprints
 * [Scalable Fingerprinting of Large Language Models](https://arxiv.org/abs/2502.07760)
   	**Anshul Nasery**, Jonathan Hayase, Creston Brooks, Peiyao Sheng, Himanshu Tyagi, Pramod Viswanath, Sewoong Oh
-* [PLeaS -- Merging Models with Permutations and Least Squares](https://arxiv.org/abs/2407.02447)
-	 **Anshul Nasery**\*, Jonathan Hayase\*,  Pang Wei Koh, Sewoong Oh
+
  	
 
 ## Conferences
-
+* [PLeaS -- Merging Models with Permutations and Least Squares](https://arxiv.org/abs/2407.02447)
+	 **Anshul Nasery**\*, Jonathan Hayase\*,  Pang Wei Koh, Sewoong Oh at CVPR'25
 * [PEEKABOO: Interactive Video Generation via Masked-Diffusion](https://arxiv.org/abs/2312.07509)
 	Yash Jain\*, **Anshul Nasery**\*,  Vibhav Vineet, Harkirat Behl at CVPR'24
  
