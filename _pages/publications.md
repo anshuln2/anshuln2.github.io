@@ -10,11 +10,12 @@ For an updated list, please refer to my [Google Scholar](https://scholar.google.
 
 
  	
-## Preprints
-* [Are Robust LLM Fingerprints Adversarially Robust?](https://arxiv.org/abs/2509.26598)
-  	**Anshul Nasery**, Edoardo Contente, Alkin Kaz, Pramod Viswanath, Sewoong Oh 
+
+
 
 ## Conferences
+* [Are Robust LLM Fingerprints Adversarially Robust?](https://arxiv.org/abs/2509.26598)
+  	**Anshul Nasery**, Edoardo Contente, Alkin Kaz, Pramod Viswanath, Sewoong Oh at [SatML'26](https://satml.org/)
 * [Scalable Fingerprinting of Large Language Models](https://arxiv.org/abs/2502.07760)
   	**Anshul Nasery**, Jonathan Hayase, Creston Brooks, Peiyao Sheng, Himanshu Tyagi, Pramod Viswanath, Sewoong Oh **Spotlight** at NeurIPS'25
 * [Towards Secure Model Sharing with Approximate Fingerprints](https://openreview.net/pdf?id=Ppq5WwPTZ7)
