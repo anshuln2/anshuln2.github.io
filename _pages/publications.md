@@ -9,10 +9,11 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=lmvY2SMAA
 
 Last updated: October 25, 2026. \* denotes equal contribution.
 
-## Conferences and Workshops
+* [MIRAGE: Protecting against Malicious Image Editing via False Moderation](https://arxiv.org/abs/2606.26199)
+  **Anshul Nasery**, Ramnath Kumar, Cho-Jui Hsieh, Sewoong Oh. arXiv, 2026.
 
-* [OML: Open, Monetizable, and Loyal AI](https://arxiv.org/abs/2411.03887)
-  Zerui Cheng, Edoardo Contente, Ben Finch, Oleg Golev, Jonathan Hayase, Andrew Miller, Niusha Moshrefi, **Anshul Nasery**, Sandeep Nailwal, Sewoong Oh, Himanshu Tyagi, Pramod Viswanath. NeurIPS 2026 Position Paper Track (**Spotlight**).
+* [Language Model Fingerprinting Requires Rethinking Watermark Teachers](https://arxiv.org/abs/2610.04169)
+  Jeongyeon Hwang, **Anshul Nasery**, Sewoong Oh, Jungseul Ok. arXiv, 2026.
 
 * [Are Robust LLM Fingerprints Adversarially Robust?](https://arxiv.org/abs/2509.26598)
   **Anshul Nasery**, Edoardo Contente, Alkin Kaz, Pramod Viswanath, Sewoong Oh. SaTML 2026.
@@ -22,6 +23,9 @@ Last updated: October 25, 2026. \* denotes equal contribution.
 
 * [Towards Secure Model Sharing with Approximate Fingerprints](https://openreview.net/forum?id=Ppq5WwPTZ7)
   **Anshul Nasery**, Sewoong Oh. Reliable and Responsible Foundation Models (R2-FM) Workshop, ICML 2025.
+
+* [OML: Open, Monetizable, and Loyal AI](https://arxiv.org/abs/2411.03887)
+  Zerui Cheng, Edoardo Contente, Ben Finch, Oleg Golev, Jonathan Hayase, Andrew Miller, Niusha Moshrefi, **Anshul Nasery**, Sandeep Nailwal, Sewoong Oh, Himanshu Tyagi, Pramod Viswanath. NeurIPS 2026 Position Paper Track (**Spotlight**).
 
 * [PLeaS — Merging Models with Permutations and Least Squares](https://arxiv.org/abs/2407.02447)
   **Anshul Nasery**\*, Jonathan Hayase\*, Pang Wei Koh, Sewoong Oh. CVPR 2025.
@@ -35,8 +39,14 @@ Last updated: October 25, 2026. \* denotes equal contribution.
 * [Feature Reconstruction From Outputs Can Mitigate Simplicity Bias in Neural Networks](https://openreview.net/forum?id=zH9GcZ3ZGXu)
   Sravanti Addepalli\*, **Anshul Nasery**\*, Venkatesh Babu Radhakrishnan, Praneeth Netrapalli, Prateek Jain. ICLR 2023.
 
+* [Label Differential Privacy via Aggregation](https://arxiv.org/abs/2310.10092)
+  Anand Brahmbhatt, Rishi Saket, Shreyas Havaldar, **Anshul Nasery**, Aravindan Raghuveer. arXiv, 2023.
+
 * [Teaching CNNs to Mimic Human Visual Cognitive Process & Regularise Texture-Shape Bias](https://ieeexplore.ieee.org/abstract/document/9747796)
   Satyam Mohla\*, **Anshul Nasery**\*, Biplab Banerjee. ICASSP 2022. Related preprint: [CognitiveCNN: Mimicking Human Cognitive Models to Resolve Texture-Shape Bias](https://arxiv.org/abs/2006.14722), with Subhasis Chaudhuri (2020).
+
+* [DAFT: Distilling Adversarially Fine-tuned Models for Better OOD Generalization](https://arxiv.org/abs/2208.09139)
+  **Anshul Nasery**, Sravanti Addepalli, Praneeth Netrapalli, Prateek Jain. arXiv, 2022.
 
 * [Training for the Future: A Simple Gradient Interpolation Loss to Generalize Along Time](https://openreview.net/forum?id=U7SBcmRf65)
   **Anshul Nasery**\*, Soumyadeep Thakur\*, Vihari Piratla, Abir De, Sunita Sarawagi. NeurIPS 2021.
@@ -49,18 +59,3 @@ Last updated: October 25, 2026. \* denotes equal contribution.
 
 * [What if Neural Networks had SVDs?](https://proceedings.neurips.cc/paper/2020/hash/d61e4bbd6393c9111e6526ea173a7c8b-Abstract.html)
   Alexander Mathiasen, Frederik Hvilshøj, Jakob Rødsgaard Jørgensen, **Anshul Nasery**, Davide Mottin. NeurIPS 2020 (**Spotlight**).
-
-## Preprints
-
-* [Language Model Fingerprinting Requires Rethinking Watermark Teachers](https://arxiv.org/abs/2610.04169)
-  Jeongyeon Hwang, **Anshul Nasery**, Sewoong Oh, Jungseul Ok. arXiv, 2026.
-
-* [MIRAGE: Protecting against Malicious Image Editing via False Moderation](https://arxiv.org/abs/2606.26199)
-  **Anshul Nasery**, Ramnath Kumar, Cho-Jui Hsieh, Sewoong Oh. arXiv, 2026.
-
-* [Label Differential Privacy via Aggregation](https://arxiv.org/abs/2310.10092)
-  Anand Brahmbhatt, Rishi Saket, Shreyas Havaldar, **Anshul Nasery**, Aravindan Raghuveer. arXiv, 2023.
-
-* [DAFT: Distilling Adversarially Fine-tuned Models for Better OOD Generalization](https://arxiv.org/abs/2208.09139)
-  **Anshul Nasery**, Sravanti Addepalli, Praneeth Netrapalli, Prateek Jain. arXiv, 2022.
-
